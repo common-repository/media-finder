@@ -1,0 +1,44 @@
+ul.search-results {
+    width: 650px;
+	border: 0;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 5px;
+	display: block;
+	list-style-type: none;
+}
+	    
+li.search-result {
+    width: 125px;
+	height: 100px;
+	float: left;
+	display: block;
+	border: 1px solid #DFDFDF;
+	margin: 3px;
+}
+	    
+li.search-result:hover {
+    background-color: 6DCFF6;
+}
+	    
+img.search-result-img {
+    width: 75px;
+	height: 75px;   
+	margin-left: 25px;
+	margin-right: 25px;
+}
+	    
+.search-result-btn {
+	margin-left: 25px;
+	margin-right: 25px;
+}
+	    
+#large_image_container {
+    text-align: center;
+}
+	    
+#large_image_container img {
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+}
